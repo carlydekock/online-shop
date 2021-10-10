@@ -93,3 +93,10 @@
     display: flex;
   }
 }
+
+@media (max-width: 500px){
+  .Navbar-logo h2 {
+    font-size: 1rem;
+  }
+}
+
