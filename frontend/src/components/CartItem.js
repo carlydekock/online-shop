@@ -5,7 +5,7 @@ const CartItem = () => {
   return (
     <div className="CartItem">
       <div className="CartItem-image">
-        <img src="../img/tent.png" alt="Produt name"/>
+        <img src="../img/tent.png" alt="Product name"/>
       </div>
       <Link to={`/product/${111}`} className="CartItem-name">
         <p>Product 1</p>
