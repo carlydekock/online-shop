@@ -15,7 +15,7 @@ const products = [
   },
   {
     name: "Sleeping Pad",
-    imageUrl: "./img/tent.png",
+    imageUrl: "./img/sleeping-pad.png",
     description: "Weather resistant sleeping pad to sleep comfortably while camping.",
     price: 100,
     countInStock: 10,
@@ -36,7 +36,7 @@ const products = [
   },
   {
     name: "First Aid Kit",
-    imageUrl: "first-aid-kit.png",
+    imageUrl: "./img/first-aid-kit.png",
     description: "In case of emergencies.",
     price: 25,
     countInStock: 30,
